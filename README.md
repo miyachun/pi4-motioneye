@@ -10,6 +10,6 @@ sudo pip3 install 'https://github.com/motioneye-project/motioneye/archive/dev.ta
 sudo motioneye_init  
 
 
-http://<YOUR-IP>:8765  
+http://YOUR-IP:8765  
 Login: admin  
 Password: (empty)  
