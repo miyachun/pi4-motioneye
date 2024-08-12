@@ -17,7 +17,7 @@ source myenv/bin/activate
 
 sudo apt install python3-dev libcurl4-openssl-dev libssl-dev  
 sudo apt install python3-pip  
-sudo pip3 install 'https://github.com/motioneye-project/motioneye/archive/dev.tar.gz'  
+sudo pip3 install 'https://github.com/motioneye-project/motioneye/archive/dev.tar.gz' --break-system-packages    
 sudo motioneye_init  
 
 
