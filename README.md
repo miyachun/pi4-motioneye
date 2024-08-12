@@ -11,9 +11,9 @@ sudo raspi-config
 ifconfig  
 sudo reboot  
 
--Virtualenv-
-python -m venv myenv
-source myenv/bin/activate
+-Virtualenv-  
+python -m venv myenv  
+source myenv/bin/activate  
 
 sudo apt install python3-dev libcurl4-openssl-dev libssl-dev  
 sudo apt install python3-pip  
