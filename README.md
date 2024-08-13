@@ -25,5 +25,5 @@ http://YOUR-IP:8765
 Login: admin  
 Password: (empty)  
 
-![image](https://github.com/miyachun/pi4-motioneye/blob/main/m01.png)  
-![image](https://github.com/miyachun/pi4-motioneye/blob/main/m02.png)  
+![image](https://github.com/miyachun/pi4-motioneye/blob/main/m1.png)  
+![image](https://github.com/miyachun/pi4-motioneye/blob/main/m2.png)  
