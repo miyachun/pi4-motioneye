@@ -26,3 +26,5 @@ Login: admin
 Password: (empty)  
 
 ![image](https://github.com/miyachun/pi4-motioneye/blob/main/motioneye01.png)  
+![image](https://github.com/miyachun/pi4-motioneye/blob/main/motioneye03.png)  
+![image](https://github.com/miyachun/pi4-motioneye/blob/main/motioneye02.png)  
